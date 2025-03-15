@@ -1,0 +1,8 @@
+PyPDF2
+python-docx
+docx2txt
+PyQt6
+nltk
+scikit-learn
+transformers
+torch
